@@ -8,4 +8,4 @@ for score in grades:
   elif score >= 80:
     print(score, "is a B.")
   else:
-    print("fail")
+    print("most fail")
